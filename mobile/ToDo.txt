@@ -1,0 +1,10 @@
+Add abbility to take photo of receipt and upload it.
+Expense report for taxes
+Extracts tag as well 
+have folders and tags 
+add refresh button manually, no AI help
+Remove scan on buttom, replace it with drop down button on top for add folder, add receipt, scan receipt
+reload button 
+fix UI in the corner
+Auto reload folders for picker
+settings, import/export
